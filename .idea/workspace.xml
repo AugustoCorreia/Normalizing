@@ -5,29 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a70543b-be46-4135-a2b3-217597c9e875" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/LevenshteinByAugustoCorreiaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/controller/NormalizerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/dto/NormalizeListDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/normalizer/Normalizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/service/NormalizerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/LevenshteinByAugustoCorreiaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/controller/NormalizerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/dto/NormalizeListDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/normalizer/Normalizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/service/NormalizerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/dto/NormalizerNamesDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/controller/NormalizerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/controller/NormalizerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/dto/NormalizeListDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/dto/NormalizeListDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/normalizer/Normalizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/normalizer/Normalizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/service/NormalizerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Levenshtein/Levenshtein/service/NormalizerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/controller/NormalizerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/controller/NormalizerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/dto/NormalizeListDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/dto/NormalizeListDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/normalizer/Normalizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/normalizer/Normalizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/service/NormalizerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Levenshtein/Levenshtein/service/NormalizerService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

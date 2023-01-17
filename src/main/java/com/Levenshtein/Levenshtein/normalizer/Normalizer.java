@@ -1,15 +1,25 @@
 package com.Levenshtein.Levenshtein.normalizer;
 
+import org.springframework.stereotype.Component;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicReference;
 
+@Component
 public class Normalizer {
+
+
     private List<String> normalizedTitles ;
 
     public Normalizer() {
         this.normalizedTitles = Arrays.asList("Architect", "Software engineer", "Quantity surveyor", "Accountant");
+    }
+
+    public Normalizer setNormalizedTitles(List<String> normalizedTitles) {
+        this.normalizedTitles = normalizedTitles;
+        return this;
     }
 
     public String normalize(String input) {
